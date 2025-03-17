@@ -1,0 +1,12 @@
+.d-felx{
+    display: flex;
+}
+.justify-conent-center{
+    justify-content: center;
+}
+.align-items-center{
+    align-items: center;
+}
+.vh-100{
+    height: 100vh;
+}
