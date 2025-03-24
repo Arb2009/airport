@@ -16,17 +16,10 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-   
+    
 }
-.rules{
-    height: 300px;
-    width: 600px;
-    background-color: grey;
-    border-radius: 10px;
-    margin-top: 230px;
-}
-.rules1{
-    margin: 70px;
-    margin-left: 175px;
-    font-size: 16px;
+.departures{
+background-color: grey;
+height: 500px;
+width: 800px;
 }
